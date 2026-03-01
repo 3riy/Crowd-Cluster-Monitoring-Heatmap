@@ -2,6 +2,7 @@
 
 ### <b>This system integrates computer vision, density-based clustering (DBSCAN), and heatmap generation to deliver real-time crowd density analysis and clustering visualization.</b>
 
+<img width="800" height=auto alt="image" src="https://github.com/user-attachments/assets/04ecfdc7-9ab7-4a47-b0fd-4e12260c7fbf" />
 
 # TABLE OF CONTENTS
 
@@ -46,7 +47,7 @@ This project utilizes **Python** and **OpenCV** to process video feeds, detect i
 
 Here is a screenshot from a run of the project with the bounding boxes around object(s) detected and person and cluster count at the top, as well as heatmap.
 
-<img width="80%" alt="Crowd Monitoring Screenshot" src="https://github.com/rh3nium/rh3nium.github.io/blob/main/img/rrrrr.png?raw=true">
+<img width="800" height=auto alt="image" src="https://github.com/user-attachments/assets/04ecfdc7-9ab7-4a47-b0fd-4e12260c7fbf" />
 
 ---
 
