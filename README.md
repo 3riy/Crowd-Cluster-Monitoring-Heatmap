@@ -2,6 +2,7 @@
 
 ### <b>This system integrates computer vision, density-based clustering (DBSCAN), and heatmap generation to deliver real-time crowd density analysis and clustering visualization.</b>
 
+
 # TABLE OF CONTENTS
 
 * <b>[📝 Overview](#overview)</b>
@@ -291,8 +292,8 @@ cv2.destroyAllWindows()```
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/rh3nium/Crowd-Monitoring-Heatmap-System
-cd Crowd-Monitoring-Heatmap-System
+git clone https://github.com/rh3nium/Crowd-Cluster-Monitoring-Heatmap
+cd Crowd-Cluster-Monitoring-Heatmap
 ````
 
 ### 2. Create & Activate Virtual Environment
