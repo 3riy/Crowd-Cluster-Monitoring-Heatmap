@@ -1,4 +1,4 @@
-# 👥 Crowd & Cluster Monitoring System with Heatmap
+# 👥 Crowd & Cluster Monitoring with Heatmap
 
 ### <b>This system integrates computer vision, density-based clustering (DBSCAN), and heatmap generation to deliver real-time crowd density analysis and clustering visualization.</b>
 
